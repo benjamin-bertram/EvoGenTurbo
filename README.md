@@ -1,5 +1,5 @@
 # EvoGen-Prompt-Evolution but with Turbo
-![Evolved Prompt Output](Bytenomy%20Infinism%204Dai%20Senstoy%20Metachron%20Enhancecompanion%20Enhancetoy%20Social%20Realism%20SensFactory%20SensCloud%20Market8%20Cotoy%20Demiai%20%20Aesthetic%20Art%20Aidty%20Gr.png?raw=true "Evolved Prompt Output")
+![Evolved Prompt Output](Bytenomy%20Infinism%204Dai%20Senstoy%20Metachron%20Enhancecompanion%20Enhancetoy%20Social%20Realism%20SensFactory%20SensCloud%20Market8%20Cotoy%20Demiai%20%20Aesthetic%20Art%20Aidty%20Gr.png "Evolved Prompt Output")
 
 ### Notebook:
 

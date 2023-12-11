@@ -1,5 +1,10 @@
 # EvoGen-Prompt-Evolution but with Turbo
-![Evolved Prompt Output](/Media/banner.png "Evolved Prompt Output")
+![Evolved Prompt Output](Bytenomy%20Infinism%204Dai%20Senstoy%20Metachron%20Enhancecompanion%20Enhancetoy%20Social%20Realism%20SensFactory%20SensCloud%20Market8%20Cotoy%20Demiai%20%20Aesthetic%20Art%20Aidty%20Gr.png?raw=true "Evolved Prompt Output")
+
+### Notebook:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/benjamin-bertram/EvoGenTurbo/blob/main/EvoGen_Turbo.ipynb)
+
 ## Description & Method
 EvoGen is an evolutionary algorithm that optimizes prompts for text-to-image models for aesthetics, as assessed by @rivershavewings aesthetics model. 
 The notebook is based on [https://github.com/MagnusPetersen/EvoGen-Prompt-Evolution] by Magnus Petersen.

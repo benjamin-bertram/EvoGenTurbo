@@ -3,7 +3,7 @@
 
 ### Notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/benjamin-bertram/EvoGenTurbo/blob/main/EvoGen_Turbo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benjamin-bertram/EvoGenTurbo/blob/main/EvoGen_Turbo.ipynb)
 
 ## Description & Method
 EvoGen is an evolutionary algorithm that optimizes prompts for text-to-image models for aesthetics, as assessed by @rivershavewings aesthetics model. 
